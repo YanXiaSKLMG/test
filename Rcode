@@ -9,3 +9,4 @@ chr1<-read.table("Rush.chr1",header=FALSE)
 chr2<-read.table("Rush.chr2",header=FALSE)
 chr3<-read.table("Rush.chr3",header=FALSE)
 chr4<-read.table("Rush.chr4",header=FALSE)
+### show why
